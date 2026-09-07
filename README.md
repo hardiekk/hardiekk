@@ -1,97 +1,71 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Kunal+%F0%9F%91%8B;Full-Stack+Developer+%26+AI+Builder;Turning+Ideas+into+Real+Products+%F0%9F%9A%80;Building+in+Public+from+Pune%2C+India)](https://git.io/typing-svg)
+# Hardik
+
+**Software Engineering & Full-Stack Development | Exploring AI/ML**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm an 18-year-old full-stack developer and startup founder from **Pune, India** 🇮🇳
+I'm an engineering student pursuing a B.Tech in Artificial Intelligence & Machine Learning at VIT Pune.
 
-I don't just learn tech — I **ship products**. From Telegram bots with real users to AI assistants running locally, I build things that actually work.
-
-- 🔧 Currently building **MingleVibe** — an anonymous Telegram dating bot with AI + payments
-- 🤖 Exploring **AI agents, automation**, and intelligent systems
-- 📱 Also into **Android development** and mobile-first products
-- 🎯 Goal: Build AI products that reach **millions of users**
-- 📍 Based in **Pune, Maharashtra, India**
+My primary practical focus is software engineering and full-stack development — building backend systems and APIs, working across the stack, and applying that foundation to real projects. AI/ML is a growing area I'm developing through hands-on work, rather than a claimed area of expertise.
 
 ---
 
-## 📦 What I've Shipped
+## Current Focus
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|---------|
-| [💘 MingleVibe Bot](https://github.com/hardiekk/minglevibe-bot) | Anonymous Telegram dating bot with AI girl fallback & Razorpay payments | Python, Telegram API, Gemini, Razorpay | 🟢 Live |
-| [🌐 MingleVibe Landing](https://github.com/hardiekk/minglevibe) | Ultra-modern 3D dark-themed landing page | TypeScript, 3D CSS, Animations | 🟢 Live |
-| [🤖 AI Assistant](https://github.com/hardiekk/ai-assistant) | Locally-running private AI assistant, no cloud needed | Python, Ollama, LLaMA 3 | 🔧 Building |
-| [📷 Face Recognition Attendance](https://github.com/hardiekk/student-attendence-system-using-face-recognition) | Smart student attendance using face recognition | Python, OpenCV | ✅ Done |
+- Full-stack development (frontend + backend)
+- Backend and API development
+- Practical AI/ML through applied projects (local LLMs, computer vision)
+- Beginning to contribute to open source
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
+
+- [**minglevibe-bot**](https://github.com/hardiekk/minglevibe-bot) — Telegram bot integrating the Telegram API, Gemini for AI-driven interactions, and Razorpay for payments.
+- [**ai-assistant**](https://github.com/hardiekk/ai-assistant) — A local AI assistant built with Python, running on local models via Ollama/LLaMA, exploring on-device AI without cloud dependency.
+- [**apex-motion**](https://github.com/hardiekk/apex-motion) — A TypeScript/frontend project focused on interface and interaction design.
+- [**minglevibe**](https://github.com/hardiekk/minglevibe) — A TypeScript landing/product site with modern frontend design and animation/3D-CSS effects.
+
+---
+
+## Open Source
+
+Beginning to contribute to open source through active pull requests:
+
+- Opened a pull request to [`ludovicobana/open-personal-tracking`](https://github.com/ludovicobana/open-personal-tracking)
+- Opened a pull request to [`langgenius/dify`](https://github.com/langgenius/dify)
+
+---
+
+## Technologies
 
 **Languages**
+Python · C · C++ · Java · JavaScript · TypeScript · HTML · CSS
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Backend / Data**
+FastAPI · APIs · PostgreSQL · Docker · Redis
 
-**Frameworks & Tools**
+**AI / ML**
+Computer Vision · OpenCV · Ollama · LLaMA (local models)
 
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Frontend**
+TypeScript · HTML · CSS
 
----
+**Integrations**
+Telegram API · Gemini API · Razorpay
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardiekk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hardiekk&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiekk&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
+**Tools**
+Git / GitHub
 
 ---
 
-## 🏆 GitHub Trophies
+## Contact
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hardiekk&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalkakde/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalkakde363@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardiekk)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hardiekk&color=00d9ff&style=for-the-badge)
-
-> *"Every expert was once a beginner. Every startup was once an idea."*
-
-</div>
+[GitHub](https://github.com/hardiekk)
+<!-- Add your LinkedIn and email here -->
