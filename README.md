@@ -46,17 +46,33 @@ I am a Software Development Engineer based in **Maharashtra, India**, with a str
 </div>
 
 ---
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
 
-<!-- GitHub Streak (Working perfectly) -->
-<img src="https://streak-stats.demolab.com/?user=hardiekk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+<!-- GitHub Trophies (Premium Look) -->
+<img src="https://github-profile-trophy.vercel.app/?username=hardiekk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
-<br />
-<br />
+<br /><br />
 
-<!-- Standard Profile Views Counter -->
+<!-- Streak and Global Stats -->
+<a href="https://github.com/hardiekk">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiekk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</a>
+<a href="https://github.com/hardiekk">
+  <img src="https://github-readme-stats.vercel.app/api?username=hardiekk&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+</a>
+
+<br /><br />
+
+<!-- Top Languages -->
+<a href="https://github.com/hardiekk">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiekk&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages" width="48%" />
+</a>
+
+<br /><br />
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=hardiekk&color=06B6D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
