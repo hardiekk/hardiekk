@@ -46,30 +46,17 @@ I am a Software Development Engineer based in **Maharashtra, India**, with a str
 </div>
 
 ---
-
 ### 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github.com/hardiekk/hardiekk/assets/74038190/21ed2477-c3c5-456c-9410-4e007dd3b3c9" alt="Developer GIF" width="100%" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=hardiekk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiekk&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=hardiekk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+<!-- GitHub Streak (Working perfectly) -->
+<img src="https://streak-stats.demolab.com/?user=hardiekk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
 
 <br />
 <br />
 
-<!-- Note: To make this snake animation work, you will need to set up the snk GitHub action in your repository -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardiekk/hardiekk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hardiekk/hardiekk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hardiekk/hardiekk/output/github-contribution-grid-snake.svg" width="98%">
-</picture>
+<!-- Standard Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=hardiekk&color=06B6D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
